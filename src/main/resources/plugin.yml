@@ -1,0 +1,15 @@
+name: Zlegame
+version: ${project.version}
+main: com.github.nuguya21.zlegame.Zlegame
+api-version: 1.17
+authors: [ nuguya21 ]
+description: This is fun!
+commands:
+  타자연습:
+    description: 타자연습
+  deathpoint:
+    description: deathpoint
+  zilpoongcham:
+    description: zilpoongcham
+  aimtest:
+    description: aimtest
